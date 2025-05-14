@@ -1,2 +1,2 @@
-# ikode_html_css_projects
+# iKode HTML + CSS projects
 Варианты итоговых проектов по модулю HTML + CSS для группы Senior
